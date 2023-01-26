@@ -1,4 +1,5 @@
 # Hello
+Hello is a guided prooject built while learning Elixir/Phoenix through the official guides.
 
 To start your Phoenix server:
 
